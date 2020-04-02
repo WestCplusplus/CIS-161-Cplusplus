@@ -1,0 +1,25 @@
+Chapters 6 and 7
+Break statement
+structure
+Nested Selection
+Switch Statement
+Counter-Controlled Loops
+For Statement
+Infinite Loop
+Loop
+Loop Exit Condition
+Post Test Loop
+Priming Read
+Sentinel Values
+Updating 
+Accumulator
+Endless Loop
+Incrementing
+Initializing
+Loop Body
+Looping Condition
+Pretest Loop
+Repetition Structure
+Update Read
+While Statement 
+

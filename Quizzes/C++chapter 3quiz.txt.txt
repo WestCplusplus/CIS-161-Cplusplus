@@ -1,0 +1,19 @@
+Vocabulary for Week 3 Quiz
+==============================================
+Assignment Operator            Assignment Statement
+Bugs                                          Modulus
+<<                                              >>
+Debugging                               Executable File
+Extraction operator               Function 
+Function Body                        Function Header
+IDE                                            Insertion Operator
+Linker                                       Logic Error
+Object Code                            Object file
+Prompt                                    Source Code
+Syntax error                           White-space character
+False Path                               Local Variable
+Logical Operators                 Selection Structure
+    
+Statement block                   True path
+Truth tables
+Single-alternative selection structure

@@ -1,0 +1,15 @@
+Do While
+Exponentiation
+Nested Loop
+POW Function
+Actual Argument
+Built-in functions
+formal parameters
+Function Prototype
+Global Variables
+Local Variables
+Passing By Reference
+Passing by Value
+Program-defined function
+srand function
+RAND_MAX

@@ -1,0 +1,32 @@
+Assignment Operator	
+Assignment Statement	
+Bugs	
+Modulus	
+<<
+>>	
+Function	
+Executable File	
+Extraction Operator	
+Function
+Function Body	
+Function Header	
+IDE	
+Insertion Operator	
+Linker
+Logic Error	
+Object Code	
+Object File	
+Prompt	
+Source Code
+Syntax Error	
+White-Space 
+Character	
+Single-alternative 
+selection structure	
+False Path	
+Local Variable
+Logical Operators	
+True Table	
+Statement Block	
+Truth Path	
+True Table
