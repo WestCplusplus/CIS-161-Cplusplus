@@ -8,8 +8,8 @@ Objectives<br>
 -Display the contents of a one-dimensional array<br>
 -Pass a one-dimensional array to a function<br>
 -Calculate the total and average of the values in a one-dimensional array<br>
-
-Instructions<br>
+<hr>
+# Instructions<br>
 -Open The link below and download the repository. <br>
 -Create your own Chapter 11 repository <br>
 -Extract downloaded file into your own Chapter 11 repo<br>
