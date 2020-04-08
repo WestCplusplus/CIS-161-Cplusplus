@@ -1,5 +1,7 @@
 # CIS-161-Cplusplus
 This is the college curriculum for C++ for Scott Community College
+All the files are in sequential order and the links can be found on Google Classroom or Canvas
+
  <br>
 <hr>
 
