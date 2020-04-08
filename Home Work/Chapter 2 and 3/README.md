@@ -12,10 +12,10 @@ Creating Computer Solutions to Problems page 23<br>
 <hr>
 
 <img src="https://90471605-a-e181a92d-s-sites.googlegroups.com/a/davenport.k12.ia.us/mr-brosius-class-room/c-programming/chapter-2-and-3/u1-design-process-22-638.jpg?attachauth=ANoY7cpaims4jFyhrLGwoQfH3h5A8FGcOCXQimeaEqM0miFdivRVdeaEZMFwuNC8Rc7awAPDOp1EYZKNLPV7J0K7r4ph5QhNSmsUGxdKqoUbSGxgjFLAMWKhRcXEyEV9B4oJTWfpTrXUsahTQtgvW5NZ7QctQFKJ8v2DwtnsDWRRJaB8BtKmtaFM0YjYw6ETyCFuZTh332ckI2GbOdhajuGv9K-rSruBjy25aWHDTOCRnHNgp-Ub-BbLZ3BdBbLcbIR2eOmu8904uXIzPhcBSAIs7guzz0AI0HbahBSNI96KMh50HK7_kNE%3D&attredirects=0" width="300" height="300">
-
+<br>
 <b>Practice Problem 2.0) </b><br>
 Create an Expensive Calculator<br>
-Watch the video <a href="https://drive.google.com/file/d/0B-yijELfnxkbT2RzYUNHMU5fRkU/view?usp=sharing"> Click Here</a>
+Watch the video <a href="https://drive.google.com/file/d/0B-yijELfnxkbT2RzYUNHMU5fRkU/view?usp=sharing"> Click Here</a><br>
 <b>Problem 2.1)</b>
 The next problem try to complete the temperature problem. On your own.,
 In this challenge you will write a program that a user enters a three temperatures one for three different times during the day. Example what was the temperature in celsius at 8:00 am, 12:00 pm, and 5:00 pm. The Output should then give the answer in both celsius and Fahrenheit.
