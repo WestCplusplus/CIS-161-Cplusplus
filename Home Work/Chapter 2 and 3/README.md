@@ -31,8 +31,9 @@ Enrichment: If the amount of eggs is more than 10 dozen output for the price of 
 The manager of the Lake View Hotel wants a program that calculates and displays a guest's total bill. Each guest pays a room charge that is based on a per-night rate. For example, if the per-night rate is $100 and the guest stays two nights. the room charge is $200. Customers also may incur a one-time room service charge  of $35 dollars and a one-time telephone charge of $0.25 per minute. 
 <br>
 <h2>Home Work</h2>
-<hr>
-<b>2.4) Turn to page 71 in the book 
+<hr><br>
+<b>2.4) Download the MadLibs document from above and create a MadLibs assignment </b>
+<b>2.5) Turn to page 71 in the book </b>
 If you do not have your book the question is as follows<br>
 You are a currency trader. You want a program that converts American dollars to British Pounds, Mexican Pesos, and Japanese Yen. Look up the current conversion rates for one American dollar. <br>
 I want a screen shot of your results to show the following<br>
