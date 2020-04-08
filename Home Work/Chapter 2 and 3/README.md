@@ -21,8 +21,8 @@ The next problem try to complete the temperature problem. On your own.,
 In this challenge you will write a program that a user enters a three temperatures one for three different times during the day. Example what was the temperature in celsius at 8:00 am, 12:00 pm, and 5:00 pm. The Output should then give the answer in both celsius and Fahrenheit.
 
 Enrichment: Write an if statement structure that does not accept a temperature lower than the temperature given at 8:00 am and does not give a temperature 10 degrees higher from the one given at 12:00 pm. Give an error message if the user does.<br><br>
-Video Help with the Temperature problem <a href="https://drive.google.com/file/d/0B-yijELfnxkbUXVwTnlSaVVUTHM/view?usp=sharing"> Click Here </a>
-<b>Problem 2.2)</b>- Help Video<br>
+Video Help with the Temperature problem <a href="https://drive.google.com/file/d/0B-yijELfnxkbUXVwTnlSaVVUTHM/view?usp=sharing"> Click Here </a><br>
+<b>Problem 2.2)</b><br>
 Create a program that asks the user how many eggs they would like. The output should tell the user how many dozen eggs there are and how many eggs were remaining. The output should also contain a price per dozen eggs at $2.00, with each remaining egg costing $0.25.
 <br>
 Enrichment: If the amount of eggs is more than 10 dozen output for the price of the eggs should be $0.50 less per dozen. Only show the discounted price for the output not the original price and discounted price.
