@@ -10,4 +10,4 @@ This is the college curriculum for C++ for Scott Community College
 <p>Visual Studio 2019 Download <a href="https://visualstudio.microsoft.com/downloads/"> Here</a><p> 
 
 <p>How to start an application using Visual Studio</p>
-https://youtu.be/KrtPuJxyuoo
+Click >>> https://youtu.be/KrtPuJxyuoo
