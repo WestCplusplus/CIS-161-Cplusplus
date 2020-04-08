@@ -32,7 +32,7 @@ The manager of the Lake View Hotel wants a program that calculates and displays 
 <br>
 <h2>Home Work</h2>
 <hr><br>
-<b>2.4) Download the MadLibs document from above and create a MadLibs assignment </b>
+<b>2.4) Download the MadLibs document from above and create a MadLibs assignment </b><br>
 <b>2.5) Turn to page 71 in the book </b>
 If you do not have your book the question is as follows<br>
 You are a currency trader. You want a program that converts American dollars to British Pounds, Mexican Pesos, and Japanese Yen. Look up the current conversion rates for one American dollar. <br>
