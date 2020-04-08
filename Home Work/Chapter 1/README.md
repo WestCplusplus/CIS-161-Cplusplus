@@ -3,7 +3,7 @@
 Go to Code Academy Sign up for C++ Courses<a href="https://www.codecademy.com/learn/learn-c-plus-plus">Click Here</a><br>
 As you work through CodeAcademy website you should be able to do the following challenges.
 
-Using the C++ shell website below complete the following assignment and screen shot your code and the results. <br>
+Using the <a href="http://cpp.sh/">  C++ shell website </a> below complete the following assignment and screen shot your code and the results. <br>
 If you do not know how to screen shot click the link below that takes you to Google and look it up. 
 
 1) Create a statement that says "Hello World" using the C++ shell website listed below<br>
