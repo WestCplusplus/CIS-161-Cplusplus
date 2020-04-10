@@ -1,14 +1,15 @@
 # Chapter 4 and 5
-<hr
-3.1. List three errors commonly made when writing selection structures.<br>
-3.2. Which of the errors from Question 1 makes the selection structure inefficient but still products the correct results?<br>
-3.3 Write a flow chart for the Age Program we wrote on Thursday. (hint look at page 180, use the proper flow chart symbol meanings)<br>
+<hr>
+3.1. In the readme file - List three errors commonly made when writing selection structures.<br>
+3.2. In the readme file - Which of the errors from Question 1 makes the selection structure inefficient but still products the correct results?<br>
+3.3 In the readme file - Write a flow chart for the Age Program we wrote on Thursday. (hint look at page 180, use the proper flow chart symbol meanings)<br>
+<a href = "https://www.programiz.com/article/flowchart-programming">Learn How To Write a proper flow chart here</a>
 <br>
-3.4. Modify Delgados Tacos by displaying the menu of what the user can order, then the user can type in order what they would like to order using a else if structure. Then total the total price at the end of the program with the number of items ordered with and without tax.<br>
+3.4. Modify Delgados Tacos by displaying the menu of what the user can order, then the user can type in order what they would like to order using a else if structure. Then total the total price at the end of the program with the number of items ordered with and without tax. Beginner code for this project is attached above<br>
 
 3.5. Complete this Hawkeye Computer Challenge if you already completed that challenge, do this one instead.<br>
-<a href="https://sites.google.com/a/davenport.k12.ia.us/mr-brosius-class-room/c-programming/chapter-2-and-3/chapter-2-and-3-help-video">Video help for number 5</a><br>
-3.6. Practice Problem 3 - <a href="https://sites.google.com/a/davenport.k12.ia.us/mr-brosius-class-room/c-programming/chapter-2-and-3/chapter-2-and-3-help-video">Help Video</a><br>
+<a href="https://drive.google.com/file/d/0B-yijELfnxkbN2g4SU5DaUVmVHc/view?usp=sharing">Video help for number 5</a><br>
+3.6. Practice Problem 3 - <a href="https://drive.google.com/file/d/0B-yijELfnxkbTlJwamRjcFpWZWs/view?usp=sharing">Help Video</a><br>
 The manager of the Lake View Hotel wants a program that calculates and displays a guest's total bill. Each guest pays a room charge that is based on a per-night rate. For example, if the per-night rate is $100 and the guest stays two nights. the room charge is $200. Customers also may incur a one-time room service charge  of $35 dollars and a one-time telephone charge of $0.25 per minute. (Must be placed inside a while loop that asks you if you want to stay another night, you have to make a decision if you want to use the phone yes or no, and if you want room service yes or no.) Must have a total at the end. <br>
 <br>
 3.7. Create a program that asks the user if they have a right triangle, isosceles, or equilateral. You will be given 2 sides of the triangle. You must write a program that finds the length of the missing side. You must write a program the finds the perimeter, and area of the triangles.
