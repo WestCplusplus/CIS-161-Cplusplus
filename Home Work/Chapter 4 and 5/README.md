@@ -14,8 +14,8 @@ In the readme file - Write a flow chart for the Door Prize progra.<br>
 3.6. Practice Problem 3 - <a href="https://drive.google.com/file/d/0B-yijELfnxkbTlJwamRjcFpWZWs/view?usp=sharing">Help Video</a><br>
 The manager of the Lake View Hotel wants a program that calculates and displays a guest's total bill. Each guest pays a room charge that is based on a per-night rate. For example, if the per-night rate is $100 and the guest stays two nights. the room charge is $200. Customers also may incur a one-time room service charge  of $35 dollars and a one-time telephone charge of $0.25 per minute. (Must be placed inside a while loop that asks you if you want to stay another night, you have to make a decision if you want to use the phone yes or no, and if you want room service yes or no.) Must have a total at the end. <br>
 <br>
-3.7. Create a program that asks the user if they have a right triangle, isosceles, or equilateral. You will be given 2 sides of the triangle. You must write a program that finds the length of the missing side. You must write a program the finds the perimeter, and area of the triangles.
-<br>
+3.7. Create a program that asks the user if they have a right triangle, isosceles, or equilateral. You will be given 2 sides of the triangle. You must write a program that finds the length of the missing side. You must write a program the finds the perimeter, and area of the triangles. <a href="https://youtu.be/--l6BaOJa-g">How To Start</a>
+<br> 
 The program must not end until you type the word STOP.
 <br>
 Example: Right triangle A side = 5, B side = 6, C side = ??<br>
