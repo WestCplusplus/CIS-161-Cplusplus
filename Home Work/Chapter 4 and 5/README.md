@@ -3,8 +3,8 @@
 3.1. In the readme file - List three errors commonly made when writing selection structures.<br>
 3.2. In the readme file - Which of the errors from Question 1 makes the selection structure inefficient but still products the correct results?<br>
 
-3.3 How to write a door prize excercise program <a href="https://drive.google.com/file/d/0B-yijELfnxkbVUIyZ3ZkSVVkbjg/view?usp=sharing"> click here</a>
-In the readme file - Write a flow chart for the Age Program we wrote on Thursday. (hint look at page 180, use the proper flow chart symbol meanings)<br>
+3.3 How to write a door prize excercise program <a href="https://drive.google.com/file/d/0B-yijELfnxkbVUIyZ3ZkSVVkbjg/view?usp=sharing"> click here</a><br>
+In the readme file - Write a flow chart for the Door Prize progra.<br>
 <a href = "https://www.programiz.com/article/flowchart-programming">Learn How To Write a proper flow chart here</a>
 <br>
 3.4. Modify Delgados Tacos by displaying the menu of what the user can order, then the user can type in order what they would like to order using a else if structure. Then total the total price at the end of the program with the number of items ordered with and without tax. Beginner code for this project is attached above<br>
