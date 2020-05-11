@@ -36,3 +36,8 @@ Enrichment: Create a password option that takes to to a special portion of the g
 Ask the user if they would like to play again and display the record for the user and the computer. 
 
 You need a flow chart to correspond with 5.1 program to be displayed in portfolio.
+
+#Vocab Terminology from the book
+<img src="vocab1.jpg">
+<img src="vocab2.jpg">
+<img src="vocab3.jpg">
