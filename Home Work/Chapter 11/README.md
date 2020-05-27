@@ -13,8 +13,11 @@ Objectives<br>
 -Open The link below and download the repository. <br>
 -Create your own Chapter 11 repository <br>
 -Extract downloaded file into your own Chapter 11 repo<br>
-
+<a href ="https://github.com/WestCplusplus/CIS-161-Cplusplus/tree/master/Home%20Work/Chapter%2011/Intermediate26%20Project-IM">Find me here</a><br>
+Complete the files projects 23, 26, and 28.
+<br>
+Follow the instructions in the comments for each .cpp file 
 -Create a program that stores test scores between 1 and 100. The output must have an average and display the highest and lowest. <br>
-Turn to page 481 and 482 <br>
+Save the scores into an array. <br>
+Recall the scores displaying them front to back and back to front using a for loop <br>
 Complete the following assignments:<br>
-23, 24, 25, and 26
