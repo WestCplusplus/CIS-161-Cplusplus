@@ -17,6 +17,7 @@ Objectives<br>
 Complete the files projects 23, 26, and 28.
 <br>
 Follow the instructions in the comments for each .cpp file 
+--Finally --
 -Create a program that stores test scores between 1 and 100. The output must have an average and display the highest and lowest. <br>
 Save the scores into an array. <br>
 Recall the scores displaying them front to back and back to front using a for loop <br>
