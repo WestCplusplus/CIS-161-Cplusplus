@@ -1,7 +1,7 @@
 # Chapter-11
 # Get your book
 <h3>Objectives</h3>
-Get your book
+
 Objectives<br>
 -Declare and initialize a one-dimensional array<br>
 -Enter data into a one-dimensional array<br>
