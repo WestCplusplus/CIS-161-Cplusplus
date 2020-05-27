@@ -16,8 +16,8 @@ Objectives<br>
 <a href ="https://github.com/WestCplusplus/CIS-161-Cplusplus/tree/master/Home%20Work/Chapter%2011/Intermediate26%20Project-IM">Find me here</a><br>
 Complete the files projects 23, 26, and 28.
 <br>
-Follow the instructions in the comments for each .cpp file 
---Finally --
+Follow the instructions in the comments for each .cpp file <br>
+<b>--Finally --</b><br>
 -Create a program that stores test scores between 1 and 100. The output must have an average and display the highest and lowest. <br>
 Save the scores into an array. <br>
 Recall the scores displaying them front to back and back to front using a for loop <br>
